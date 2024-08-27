@@ -2,7 +2,7 @@
 While DNA methylation signatures are distinct across various nervous system neoplasms, it has not been comprehensively demonstrated whether transcriptomic signatures exhibit similar uniqueness. Additionally, there is a lack of a single, large-scale dataset for comparative gene expression analyses across these neoplasms. To address these gaps, we generated a large-scale, clinically annotated transcriptomic dataset comprising 5,402 neoplastic and 1,973 non-neoplastic nervous system samples from the public domain. We reprocessed, integrated, and reclassified samples with questionable diagnoses. Visualization using machine learning tools showed clustering primarily based on diagnosis, confirming that the bulk transcriptomic signature of nervous system neoplasms is unique across the diagnostic spectrum. The dataset’s broad coverage of diagnoses, including rarely studied entities, spans all ages and includes individuals from diverse ethnic backgrounds, enhancing its utility for comparative gene expression analyses. Our methods can be used to integrate and harmonize existing raw transcriptomic data of rare conditions, increasing their utility.
 
 <p align="center">
-     <img src="test.jpeg" width="750px" align="center", class="only-light" >
+     <img src="image.jpeg" width="750px" align="center", class="only-light" >
 </p>
 
 ## Instructions
