@@ -15,16 +15,16 @@ ExpData<-read.RDS(“ExpData.rds”) #this will load a data frame.
 ### Clinical Data
 The clinical data associated with the samples are available in Atlas_Data.csv.
 
-VARIABLES
+VARIABLES:
 Filename, Dataset ID, Sample ID, Primary Institution, Country, Tissue preparation
 
-TUMOR DATA
+TUMOR DATA:
 Original histology, Subgroup Information, Original location, Compartment, Location, Grade, Final diagnosis, and Genetic Information: 1p/19q-codel, IDH1/2 mutation, H3 mutation, TERT (promoter) mutation, EGFR amplification, MGMT promoter methylation, BRAF mutation, MCYN amplification
 
-ANALYSIS RESULTS
+ANALYSIS RESULTS:
 tsne1, tsne2, Diagnosis predicted by the Random Forest, LightGBM, Euclidean, and t-SNE classifiers	
 
-PATIENT DATA
+PATIENT DATA:
 Stage Neuroblastoma, Stage Medulloblastoma, Age (year), Age (grouped), Sex, Recurrent?, Vital status, Overall survival
 
 ## Reproducibilty
