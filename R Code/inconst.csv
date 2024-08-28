@@ -1,0 +1,633 @@
+dist,tsne,gbm,rf
+Germ Cell Tumor,PCNSL,PCNSL,PCNSL
+PH/PG,Neuroblastoma,Neuroblastoma,PH/PG
+Diffuse Glioma,Midline,Diffuse Glioma,Diffuse Glioma
+IDH Mutant,IDH Mutant,IDH Mutant,Diffuse Glioma
+Diffuse Glioma,Ganglioglioma,Diffuse Glioma,Diffuse Glioma
+Diffuse Glioma,Midline,Diffuse Glioma,Diffuse Glioma
+Neurofibroma,Neurofibroma,Ganglioneuroma,Neurofibroma
+Neurofibroma,Neurofibroma,Ganglioneuroma,Neurofibroma
+IDH Mutant,IDH Mutant,IDH Mutant,Diffuse Glioma
+IDH Mutant,Diffuse Glioma,IDH Mutant,IDH Mutant
+Diffuse Glioma,IDH Mutant,PA,Diffuse Glioma
+PA,IDH Mutant,Midline,IDH Mutant
+IDH Mutant,IDH Mutant,Midline,Diffuse Glioma
+MB-SHH,MB-SHH,Retinoblastoma,MB-SHH
+IDH Mutant,IDH Mutant,Midline,Midline
+IDH Mutant,Midline,Midline,IDH Mutant
+IDH Mutant,IDH Mutant,MB-SHH,Diffuse Glioma
+IDH Mutant,Diffuse Glioma,PA,Diffuse Glioma
+IDH Mutant,IDH Mutant,CNS,IDH Mutant
+Diffuse Glioma,Diffuse Glioma,CNS,CNS
+IDH Mutant,IDH Mutant,Diffuse Glioma,IDH Mutant
+Diffuse Glioma,IDH Mutant,Diffuse Glioma,IDH Mutant
+IDH Mutant,IDH Mutant,Diffuse Glioma,IDH Mutant
+CNS,CNS,Diffuse Glioma,CNS
+Diffuse Glioma,IDH Mutant,IDH Mutant,IDH Mutant
+Diffuse Glioma,IDH Mutant,IDH Mutant,IDH Mutant
+Diffuse Glioma,IDH Mutant,IDH Mutant,IDH Mutant
+Diffuse Glioma,DIG,Diffuse Glioma,Diffuse Glioma
+Meningioma,Meningioma,AT/RT-TYR,Meningioma
+Meningioma,Meningioma,Diffuse Glioma,Meningioma
+Meningioma,Diffuse Glioma,Meningioma,Meningioma
+Meningioma,Meningioma,Diffuse Glioma,Meningioma
+Diffuse Glioma,Ganglioglioma,Diffuse Glioma,Diffuse Glioma
+Diffuse Glioma,IDH Mutant,IDH Mutant,IDH Mutant
+IDH Mutant,Diffuse Glioma,IDH Mutant,IDH Mutant
+Diffuse Glioma,IDH Mutant,IDH Mutant,IDH Mutant
+IDH Mutant,IDH Mutant,IDH Mutant,CNS
+Diffuse Glioma,PFA,IDH Mutant,PFA
+PFA,PFA,IDH Mutant,PFA
+Diffuse Glioma,Diffuse Glioma,IDH Mutant,Diffuse Glioma
+Diffuse Glioma,Diffuse Glioma,IDH Mutant,IDH Mutant
+Diffuse Glioma,Diffuse Glioma,G34 Mutant,Diffuse Glioma
+Diffuse Glioma,Ganglioglioma,Diffuse Glioma,Diffuse Glioma
+PA,Ganglioglioma,PA,PA
+Diffuse Glioma,IDH Mutant,IDH Mutant,Diffuse Glioma
+Diffuse Glioma,CNS,Germ Cell Tumor,CNS
+Diffuse Glioma,Diffuse Glioma,HGNET-BCOR,Diffuse Glioma
+PFA,PFA,Diffuse Glioma,PFA
+PFA,RELA,RELA,RELA
+PFA,PFA,Diffuse Glioma,PFA
+RELA,PFA,RELA,RELA
+Diffuse Glioma,EFT-CIC,Midline,Diffuse Glioma
+Diffuse Glioma,Diffuse Glioma,RELA,Diffuse Glioma
+Midline,Midline,Diffuse Glioma,Diffuse Glioma
+Diffuse Glioma,Midline,Midline,Midline
+Midline,Midline,PA,Midline
+CNS,IDH Mutant,CNS,CNS
+Diffuse Glioma,PXA,RELA,Diffuse Glioma
+MB-GP4,MB-GP4,MB-GP3,MB-GP3
+MB-GP4,MB-GP4,MB-GP4,MB-GP3
+CNS,IDH Mutant,CNS,CNS
+Ganglioglioma,Ganglioglioma,PA,PA
+Ganglioglioma,Ganglioglioma,PA,PA
+Ganglioglioma,Ganglioglioma,PA,PA
+Ganglioglioma,Ganglioglioma,PA,Ganglioglioma
+Ganglioglioma,Ganglioglioma,PA,PA
+PA,Ganglioglioma,PA,PA
+Diffuse Glioma,Diffuse Glioma,Angiocentric,Diffuse Glioma
+Ada. Cranio.,Ada. Cranio.,Neurofibroma,PCNSL
+Diffuse Glioma,Diffuse Glioma,Ganglioglioma,Diffuse Glioma
+PFA,RELA,RELA,RELA
+PFA,PFA,Diffuse Glioma,PFA
+RELA,PFA,RELA,RELA
+Diffuse Glioma,Diffuse Glioma,Midline,Diffuse Glioma
+IDH Mutant,IDH Mutant,Diffuse Glioma,IDH Mutant
+Meningioma,Meningioma,Diffuse Glioma,Meningioma
+IDH Mutant,IDH Mutant,Diffuse Glioma,IDH Mutant
+CNS,IDH Mutant,CNS,CNS
+CNS,CNS,Diffuse Glioma,CNS
+IDH Mutant,IDH Mutant,Diffuse Glioma,Diffuse Glioma
+Uveal Melanoma,Diffuse Glioma,MB-SHH,Diffuse Glioma
+Uveal Melanoma,Retina,Uveal Melanoma,Uveal Melanoma
+CNS,CNS,Ada. Cranio.,CNS
+Diffuse Glioma,IDH Mutant,Diffuse Glioma,IDH Mutant
+IDH Mutant,IDH Mutant,CNS,IDH Mutant
+IDH Mutant,IDH Mutant,CNS,CNS
+CNS,Cerebellum,Cerebellum,CNS
+IDH Mutant,IDH Mutant,PA,PA
+Diffuse Glioma,PA,PA,PA
+PA,IDH Mutant,PA,PA
+PA,IDH Mutant,PA,PA
+CNS,IDH Mutant,Diffuse Glioma,Diffuse Glioma
+IDH Mutant,IDH Mutant,IDH Mutant,CNS
+IDH Mutant,IDH Mutant,PA,IDH Mutant
+CNS,CNS,Diffuse Glioma,CNS
+Diffuse Glioma,IDH Mutant,IDH Mutant,Diffuse Glioma
+IDH Mutant,IDH Mutant,CNS,CNS
+PA,IDH Mutant,IDH Mutant,IDH Mutant
+Diffuse Glioma,IDH Mutant,Diffuse Glioma,Diffuse Glioma
+CNS,IDH Mutant,IDH Mutant,CNS
+PA,PA,PA,Diffuse Glioma
+Diffuse Glioma,IDH Mutant,Diffuse Glioma,Diffuse Glioma
+IDH Mutant,IDH Mutant,PA,IDH Mutant
+CNS,IDH Mutant,CNS,CNS
+IDH Mutant,IDH Mutant,Diffuse Glioma,IDH Mutant
+IDH Mutant,IDH Mutant,Diffuse Glioma,Diffuse Glioma
+CNS,IDH Mutant,CNS,CNS
+Diffuse Glioma,IDH Mutant,Diffuse Glioma,Diffuse Glioma
+IDH Mutant,IDH Mutant,CNS,IDH Mutant
+Diffuse Glioma,IDH Mutant,Diffuse Glioma,Diffuse Glioma
+PA,IDH Mutant,IDH Mutant,IDH Mutant
+Diffuse Glioma,IDH Mutant,IDH Mutant,IDH Mutant
+CNS,IDH Mutant,CNS,CNS
+CNS,CNS,PFA,CNS
+CNS,CNS,IDH Mutant,CNS
+CNS,CNS,IDH Mutant,CNS
+CNS,IDH Mutant,Diffuse Glioma,CNS
+IDH Mutant,IDH Mutant,Diffuse Glioma,IDH Mutant
+IDH Mutant,IDH Mutant,Midline,IDH Mutant
+Diffuse Glioma,PXA,Diffuse Glioma,Diffuse Glioma
+Diffuse Glioma,PXA,Diffuse Glioma,Diffuse Glioma
+Pituitary,Pituitary,PitNET,Pituitary
+AT/RT-MYC,AT/RT-MYC,MB-GP3,AT/RT-MYC
+AT/RT-TYR,AT/RT-SHH,AT/RT-TYR,AT/RT-SHH
+AT/RT-TYR,AT/RT-SHH,AT/RT-TYR,Diffuse Glioma
+AT/RT-SHH,AT/RT-SHH,AT/RT-TYR,AT/RT-SHH
+Midline,Midline,Diffuse Glioma,AT/RT-SHH
+AT/RT-SHH,AT/RT-SHH,Retinoblastoma,AT/RT-SHH
+AT/RT-SHH,AT/RT-SHH,G34 Mutant,AT/RT-SHH
+AT/RT-SHH,AT/RT-SHH,AT/RT-TYR,AT/RT-SHH
+AT/RT-MYC,AT/RT-MYC,AT/RT-SHH,AT/RT-MYC
+AT/RT-SHH,AT/RT-MYC,NB-FOXR2,AT/RT-MYC
+AT/RT-MYC,AT/RT-MYC,AT/RT-SHH,AT/RT-MYC
+YAP,YAP,PFB,YAP
+YAP,PFB,PFB,PFB
+PFA,PFA,CNS,PFA
+YAP,PFB,PFB,PFB
+YAP,YAP,SFT,PFB
+AT/RT-TYR,AT/RT-TYR,AT/RT-MYC,AT/RT-TYR
+Diffuse Glioma,IDH Mutant,PA,Diffuse Glioma
+PH/PG,Ganglioneuroma,CNS,PH/PG
+Neuroblastoma,Neuroblastoma,Retinoblastoma,Neuroblastoma
+MB-GP3,MB-GP3,MB-GP4,MB-GP3
+MB-SHH,MB-SHH,Cerebellum,MB-SHH
+MB-GP3,MB-GP3,Ada. Cranio.,MB-GP3
+Ada. Cranio.,Ada. Cranio.,Neurofibroma,Diffuse Glioma
+Ada. Cranio.,Ada. Cranio.,PCNSL,PCNSL
+Diffuse Glioma,Ada. Cranio.,Diffuse Glioma,Diffuse Glioma
+Retina,Retina,PitNET,Retina
+IDH Mutant,CNS,IDH Mutant,CNS
+IDH Mutant,NB-FOXR2,IDH Mutant,Diffuse Glioma
+PFA,DIG,PA,AT/RT-MYC
+PFA,DIG,CNS,AT/RT-MYC
+AT/RT-TYR,AT/RT-TYR,CNS,AT/RT-TYR
+PFA,DIG,PA,Diffuse Glioma
+Diffuse Glioma,G34 Mutant,Diffuse Glioma,Diffuse Glioma
+G34 Mutant,Midline,Midline,Midline
+Diffuse Glioma,Midline,Diffuse Glioma,Midline
+Midline,Diffuse Glioma,IDH Mutant,Midline
+G34 Mutant,G34 Mutant,NB-FOXR2,NB-FOXR2
+IDH Mutant,Midline,Midline,Midline
+Midline,Midline,Diffuse Glioma,Midline
+IDH Mutant,Midline,IDH Mutant,Midline
+Midline,IDH Mutant,IDH Mutant,IDH Mutant
+G34 Mutant,Midline,G34 Mutant,Midline
+AT/RT-TYR,AT/RT-TYR,Choroid Plexus,AT/RT-TYR
+G34 Mutant,G34 Mutant,IDH Mutant,G34 Mutant
+G34 Mutant,Midline,G34 Mutant,Midline
+MB-SHH,MB-SHH,Retinoblastoma,MB-SHH
+MB-SHH,MB-SHH,Retinoblastoma,MB-SHH
+ETMR,ETMR,MB-SHH,MB-SHH
+AT/RT-SHH,AT/RT-SHH,AT/RT-MYC,AT/RT-SHH
+Diffuse Glioma,PXA,Diffuse Glioma,Diffuse Glioma
+Midline,Midline,AT/RT-TYR,Midline
+Midline,Midline,PA,Midline
+AT/RT-TYR,AT/RT-TYR,AT/RT-MYC,AT/RT-MYC
+NB-FOXR2,NB-FOXR2,AT/RT-SHH,Midline
+MB-SHH,Lung,ETMR,MB-SHH
+NB-FOXR2,NB-FOXR2,Midline,Midline
+ETMR,ETMR,Diffuse Glioma,Diffuse Glioma
+ETMR,ETMR,Lung,MB-SHH
+HGNET-MN1,AT/RT-SHH,HGNET-MN1,HGNET-MN1
+RELA,EFT-CIC,CNS,AT/RT-SHH
+AT/RT-SHH,ETMR,MB-SHH,AT/RT-SHH
+Neuroblastoma,Neuroblastoma,Retinoblastoma,PitNET
+RELA,Diffuse Glioma,ETMR,Diffuse Glioma
+Neuroblastoma,Ganglioneuroma,Neuroblastoma,Neuroblastoma
+Neuroblastoma,Ganglioneuroma,Neuroblastoma,Ganglioneuroma
+Neuroblastoma,Ganglioneuroma,Lung,Lung
+Diffuse Glioma,Diffuse Glioma,RELA,Diffuse Glioma
+YAP,PFA,YAP,YAP
+PA,Diffuse Glioma,Diffuse Glioma,Diffuse Glioma
+MB-GP4,MB-GP3,MB-GP4,MB-GP4
+IDH Mutant,IDH Mutant,IDH Mutant,Diffuse Glioma
+Meningioma,Meningioma,IDH Mutant,Diffuse Glioma
+Diffuse Glioma,MB-GP3,MB-SHH,CNS
+Diffuse Glioma,MB-GP4,MB-GP3,MB-GP4
+Lung,AT/RT-MYC,AT/RT-MYC,Diffuse Glioma
+Cerebellum,MB-GP4,Cerebellum,Cerebellum
+AT/RT-SHH,AT/RT-SHH,CNS,ETMR
+AT/RT-MYC,AT/RT-MYC,AT/RT-MYC,Diffuse Glioma
+Neuroblastoma,MB-GP3,AT/RT-MYC,MB-GP3
+AT/RT-MYC,AT/RT-MYC,SFT,AT/RT-MYC
+AT/RT-MYC,Diffuse Glioma,G34 Mutant,Diffuse Glioma
+AT/RT-MYC,Diffuse Glioma,Diffuse Glioma,Diffuse Glioma
+AT/RT-MYC,AT/RT-MYC,MB-GP3,AT/RT-MYC
+PFA,PFA,Diffuse Glioma,MPE
+PFA,PFA,MPNST,MPE
+MPE,PFA,MPE,MPE
+MPE,PFA,MPE,MPE
+MPE,PFA,MPE,MPE
+PA,PA,Midline,PA
+PA,PA,Diffuse Glioma,PA
+Diffuse Glioma,PA,Ganglioglioma,PA
+Diffuse Glioma,PA,Diffuse Glioma,Diffuse Glioma
+IDH Mutant,IDH Mutant,CNS,CNS
+CNS,IDH Mutant,CNS,CNS
+IDH Mutant,IDH Mutant,Ganglioglioma,CNS
+Diffuse Glioma,Diffuse Glioma,Ganglioglioma,Diffuse Glioma
+Ada. Cranio.,PA,Diffuse Glioma,Diffuse Glioma
+MB-GP4,MB-GP4,CNS,MB-GP4
+MB-GP4,MB-GP4,Cerebellum,MB-GP4
+Diffuse Glioma,Diffuse Glioma,CNS,Diffuse Glioma
+MB-GP4,MB-GP4,MB-GP4,MB-GP3
+MB-GP4,MB-GP4,CNS,MB-GP3
+MB-GP4,MB-GP4,MB-GP4,MB-GP3
+MB-GP3,MB-GP4,MB-GP3,MB-GP3
+MB-GP3,MB-GP4,MB-GP4,MB-GP4
+MB-GP4,MB-GP3,MB-GP3,MB-GP3
+Diffuse Glioma,CNS,CNS,CNS
+Diffuse Glioma,PXA,Diffuse Glioma,Diffuse Glioma
+Diffuse Glioma,PXA,Diffuse Glioma,Neurofibroma
+Diffuse Glioma,PXA,IDH Mutant,Neurofibroma
+Diffuse Glioma,PXA,Diffuse Glioma,Neurofibroma
+CNS,Cerebellum,CNS,CNS
+CNS,Cerebellum,CNS,CNS
+Diffuse Glioma,Diffuse Glioma,IDH Mutant,Diffuse Glioma
+Diffuse Glioma,CNS,CNS,CNS
+Diffuse Glioma,Ganglioglioma,PA,Diffuse Glioma
+Diffuse Glioma,Ganglioglioma,Diffuse Glioma,Diffuse Glioma
+PA,PXA,Diffuse Glioma,Diffuse Glioma
+ETMR,AT/RT-SHH,Retinoblastoma,AT/RT-TYR
+CNS,CNS,PA,CNS
+Midline,Midline,Midline,Diffuse Glioma
+PXA,PXA,PXA,Diffuse Glioma
+PA,Angiocentric,PA,PA
+Diffuse Glioma,PA,IDH Mutant,Diffuse Glioma
+G34 Mutant,Midline,Diffuse Glioma,Diffuse Glioma
+PA,Angiocentric,PA,PA
+MPNST,Diffuse Glioma,MPNST,MPNST
+ETMR,AT/RT-SHH,Diffuse Glioma,AT/RT-TYR
+MB-SHH,Diffuse Glioma,AT/RT-SHH,Diffuse Glioma
+DIG,DIG,EFT-CIC,Diffuse Glioma
+Diffuse Glioma,Diffuse Glioma,Diffuse Glioma,Cerebellum
+Diffuse Glioma,Diffuse Glioma,Diffuse Glioma,Breast
+Diffuse Glioma,Meningioma,Meningioma,Meningioma
+Diffuse Glioma,Diffuse Glioma,IDH Mutant,Diffuse Glioma
+Diffuse Glioma,CNS,CNS,CNS
+Diffuse Glioma,CNS,CNS,CNS
+Diffuse Glioma,CNS,CNS,CNS
+Diffuse Glioma,Diffuse Glioma,MPNST,Diffuse Glioma
+Diffuse Glioma,Diffuse Glioma,IDH Mutant,IDH Mutant
+Diffuse Glioma,IDH Mutant,IDH Mutant,Diffuse Glioma
+IDH Mutant,Diffuse Glioma,IDH Mutant,IDH Mutant
+Diffuse Glioma,Diffuse Glioma,IDH Mutant,Diffuse Glioma
+Diffuse Glioma,Diffuse Glioma,IDH Mutant,Diffuse Glioma
+Diffuse Glioma,Diffuse Glioma,IDH Mutant,IDH Mutant
+Diffuse Glioma,IDH Mutant,IDH Mutant,Diffuse Glioma
+IDH Mutant,Diffuse Glioma,Diffuse Glioma,IDH Mutant
+Diffuse Glioma,CNS,CNS,CNS
+Diffuse Glioma,Diffuse Glioma,IDH Mutant,Diffuse Glioma
+Diffuse Glioma,Diffuse Glioma,CNS,Diffuse Glioma
+IDH Mutant,Diffuse Glioma,IDH Mutant,IDH Mutant
+Diffuse Glioma,Diffuse Glioma,IDH Mutant,Diffuse Glioma
+SFT,SFT,Diffuse Glioma,SFT
+Diffuse Glioma,IDH Mutant,MB-SHH,CNS
+HGNET-BCOR,HGNET-BCOR,Diffuse Glioma,Diffuse Glioma
+HGNET-BCOR,HGNET-BCOR,IDH Mutant,HGNET-BCOR
+Ada. Cranio.,Ada. Cranio.,"Cerebellum, Fetal",Diffuse Glioma
+Ganglioneuroma,Ganglioneuroma,Neuroblastoma,Neuroblastoma
+Neuroblastoma,PH/PG,PH/PG,Neuroblastoma
+Cerebellum,MB-SHH,MB-SHH,MB-SHH
+MB-GP4,MB-GP4,MB-GP3,MB-GP3
+CNS,IDH Mutant,CNS,CNS
+CNS,IDH Mutant,CNS,CNS
+IDH Mutant,IDH Mutant,CNS,CNS
+Diffuse Glioma,IDH Mutant,MB-GP3,Diffuse Glioma
+MPNST,MPNST,MPNST,Diffuse Glioma
+IDH Mutant,CNS,CNS,CNS
+Neuroblastoma,CNS,CNS,CNS
+IDH Mutant,Ganglioglioma,IDH Mutant,Diffuse Glioma
+Diffuse Glioma,Ganglioglioma,Diffuse Glioma,Diffuse Glioma
+Diffuse Glioma,Ganglioglioma,Diffuse Glioma,Diffuse Glioma
+PA,Diffuse Glioma,Diffuse Glioma,Diffuse Glioma
+ETMR,Midline,Diffuse Glioma,Diffuse Glioma
+Midline,Midline,PA,Diffuse Glioma
+IDH Mutant,PA,CNS,PA
+G34 Mutant,ETMR,Ada. Cranio.,Diffuse Glioma
+Diffuse Glioma,G34 Mutant,Diffuse Glioma,Diffuse Glioma
+Diffuse Glioma,Midline,Diffuse Glioma,Diffuse Glioma
+Diffuse Glioma,PFA,Diffuse Glioma,PFA
+Diffuse Glioma,Midline,Midline,Diffuse Glioma
+Diffuse Glioma,IDH Mutant,PA,IDH Mutant
+Diffuse Glioma,CNS,Diffuse Glioma,CNS
+Diffuse Glioma,IDH Mutant,IDH Mutant,IDH Mutant
+Diffuse Glioma,CNS,CNS,Diffuse Glioma
+Diffuse Glioma,IDH Mutant,Diffuse Glioma,IDH Mutant
+Diffuse Glioma,IDH Mutant,IDH Mutant,IDH Mutant
+Diffuse Glioma,IDH Mutant,IDH Mutant,IDH Mutant
+Diffuse Glioma,IDH Mutant,IDH Mutant,IDH Mutant
+Diffuse Glioma,Diffuse Glioma,IDH Mutant,Diffuse Glioma
+Diffuse Glioma,IDH Mutant,IDH Mutant,Diffuse Glioma
+Diffuse Glioma,IDH Mutant,IDH Mutant,IDH Mutant
+CNS,CNS,Diffuse Glioma,CNS
+IDH Mutant,IDH Mutant,Diffuse Glioma,Diffuse Glioma
+CNS,Cerebellum,CNS,CNS
+Diffuse Glioma,Diffuse Glioma,MPNST,Diffuse Glioma
+IDH Mutant,IDH Mutant,CNS,IDH Mutant
+IDH Mutant,IDH Mutant,Diffuse Glioma,Diffuse Glioma
+IDH Mutant,IDH Mutant,Diffuse Glioma,Diffuse Glioma
+Diffuse Glioma,Ganglioglioma,Diffuse Glioma,Diffuse Glioma
+IDH Mutant,Diffuse Glioma,IDH Mutant,IDH Mutant
+IDH Mutant,IDH Mutant,Diffuse Glioma,CNS
+IDH Mutant,IDH Mutant,CNS,CNS
+Diffuse Glioma,DIG,Diffuse Glioma,PA
+IDH Mutant,Cerebellum,Cerebellum,Cerebellum
+Diffuse Glioma,G34 Mutant,G34 Mutant,Diffuse Glioma
+Diffuse Glioma,DIG,IDH Mutant,Diffuse Glioma
+IDH Mutant,IDH Mutant,CNS,CNS
+Diffuse Glioma,PA,Diffuse Glioma,Diffuse Glioma
+Diffuse Glioma,Diffuse Glioma,Diffuse Glioma,IDH Mutant
+IDH Mutant,IDH Mutant,Diffuse Glioma,IDH Mutant
+SFT,SFT,Meningioma,SFT
+IDH Mutant,IDH Mutant,Diffuse Glioma,IDH Mutant
+Diffuse Glioma,Ada. Cranio.,Diffuse Glioma,Diffuse Glioma
+IDH Mutant,Ganglioglioma,Diffuse Glioma,Diffuse Glioma
+IDH Mutant,IDH Mutant,Diffuse Glioma,IDH Mutant
+IDH Mutant,Diffuse Glioma,Diffuse Glioma,IDH Mutant
+IDH Mutant,IDH Mutant,Diffuse Glioma,Diffuse Glioma
+Diffuse Glioma,IDH Mutant,IDH Mutant,IDH Mutant
+IDH Mutant,IDH Mutant,Diffuse Glioma,IDH Mutant
+IDH Mutant,IDH Mutant,Diffuse Glioma,IDH Mutant
+Diffuse Glioma,Diffuse Glioma,CNS,Diffuse Glioma
+MB-SHH,MB-SHH,Diffuse Glioma,MB-SHH
+IDH Mutant,Ganglioglioma,Diffuse Glioma,Diffuse Glioma
+Diffuse Glioma,Ganglioglioma,Diffuse Glioma,Diffuse Glioma
+Diffuse Glioma,Ganglioglioma,Diffuse Glioma,Diffuse Glioma
+Diffuse Glioma,IDH Mutant,Diffuse Glioma,Diffuse Glioma
+IDH Mutant,IDH Mutant,Diffuse Glioma,IDH Mutant
+Neuroblastoma,PH/PG,Neuroblastoma,Neuroblastoma
+Neuroblastoma,Ganglioneuroma,Neuroblastoma,Ganglioneuroma
+Diffuse Glioma,Diffuse Glioma,CNS,PCNSL
+Ganglioneuroma,Ganglioneuroma,CNS,Neuroblastoma
+MB-GP4,MB-GP3,MB-GP4,MB-GP3
+Diffuse Glioma,Diffuse Glioma,Uveal Melanoma,Diffuse Glioma
+Diffuse Glioma,Ganglioglioma,"Cerebellum, Fetal",Diffuse Glioma
+ETMR,AT/RT-MYC,Lung,Lung
+Diffuse Glioma,Ganglioneuroma,PFA,Diffuse Glioma
+Diffuse Glioma,Diffuse Glioma,RELA,Diffuse Glioma
+ETMR,AT/RT-MYC,ETMR,ETMR
+"Retina, Fetal",MB-GP3,Neuroblastoma,MB-GP3
+Diffuse Glioma,Diffuse Glioma,ETMR,Diffuse Glioma
+Diffuse Glioma,Diffuse Glioma,AT/RT-MYC,Diffuse Glioma
+Diffuse Glioma,Ganglioglioma,AT/RT-SHH,Diffuse Glioma
+Diffuse Glioma,Diffuse Glioma,AT/RT-MYC,Diffuse Glioma
+Diffuse Glioma,Diffuse Glioma,MB-WNT,MB-WNT
+Diffuse Glioma,Ganglioglioma,Diffuse Glioma,Diffuse Glioma
+Diffuse Glioma,Ganglioglioma,Diffuse Glioma,Diffuse Glioma
+NB-FOXR2,NB-FOXR2,HGNET-BCOR,NB-FOXR2
+Diffuse Glioma,Ganglioglioma,MPE,Diffuse Glioma
+AT/RT-MYC,AT/RT-MYC,AT/RT-MYC,Diffuse Glioma
+Midline,Diffuse Glioma,Diffuse Glioma,Diffuse Glioma
+Midline,Midline,Midline,Diffuse Glioma
+Diffuse Glioma,PXA,Diffuse Glioma,Diffuse Glioma
+Midline,Midline,Midline,Diffuse Glioma
+G34 Mutant,G34 Mutant,G34 Mutant,Diffuse Glioma
+Midline,Midline,Midline,Diffuse Glioma
+Midline,Diffuse Glioma,Diffuse Glioma,Diffuse Glioma
+Midline,Midline,G34 Mutant,Midline
+IDH Mutant,IDH Mutant,G34 Mutant,IDH Mutant
+Midline,Midline,Midline,Diffuse Glioma
+PA,Midline,Midline,Midline
+DIG,DIG,Diffuse Glioma,Diffuse Glioma
+Diffuse Glioma,Midline,Midline,Midline
+CNS,Ganglioglioma,Diffuse Glioma,CNS
+PA,PA,PA,Midline
+Midline,Diffuse Glioma,Diffuse Glioma,Diffuse Glioma
+DIG,DIG,Diffuse Glioma,Diffuse Glioma
+PA,IDH Mutant,PA,IDH Mutant
+Diffuse Glioma,HGNET-BCOR,Diffuse Glioma,Diffuse Glioma
+IDH Mutant,IDH Mutant,CNS,Diffuse Glioma
+G34 Mutant,G34 Mutant,G34 Mutant,Diffuse Glioma
+PA,Diffuse Glioma,ETMR,Diffuse Glioma
+Diffuse Glioma,Diffuse Glioma,Midline,Diffuse Glioma
+Midline,Midline,Diffuse Glioma,Diffuse Glioma
+Diffuse Glioma,Midline,Midline,Diffuse Glioma
+Midline,Diffuse Glioma,Diffuse Glioma,Midline
+PXA,PXA,G34 Mutant,Diffuse Glioma
+Diffuse Glioma,PXA,PA,Diffuse Glioma
+IDH Mutant,IDH Mutant,CNS,IDH Mutant
+Midline,Angiocentric,Midline,Diffuse Glioma
+Diffuse Glioma,PXA,PFA,Diffuse Glioma
+Diffuse Glioma,Angiocentric,Diffuse Glioma,Diffuse Glioma
+IDH Mutant,IDH Mutant,Diffuse Glioma,Diffuse Glioma
+Midline,Midline,PA,Midline
+IDH Mutant,Angiocentric,SE,Diffuse Glioma
+Midline,Midline,PA,Midline
+Diffuse Glioma,Diffuse Glioma,Midline,Diffuse Glioma
+Midline,Midline,G34 Mutant,Midline
+CNS,IDH Mutant,CNS,CNS
+PA,PA,PA,Diffuse Glioma
+PA,PA,Diffuse Glioma,PA
+Diffuse Glioma,Diffuse Glioma,MB-GP3,Diffuse Glioma
+Diffuse Glioma,IDH Mutant,IDH Mutant,Diffuse Glioma
+Diffuse Glioma,Diffuse Glioma,IDH Mutant,Diffuse Glioma
+Diffuse Glioma,IDH Mutant,IDH Mutant,Diffuse Glioma
+Diffuse Glioma,IDH Mutant,IDH Mutant,IDH Mutant
+PA,Ganglioglioma,PA,PA
+Diffuse Glioma,Diffuse Glioma,MB-GP3,Diffuse Glioma
+Diffuse Glioma,Ganglioglioma,Diffuse Glioma,Diffuse Glioma
+PXA,PXA,PXA,Diffuse Glioma
+Midline,Midline,Midline,Diffuse Glioma
+Diffuse Glioma,Midline,Diffuse Glioma,Diffuse Glioma
+Midline,Midline,Diffuse Glioma,Midline
+Diffuse Glioma,G34 Mutant,Midline,Diffuse Glioma
+Diffuse Glioma,Midline,PXA,Diffuse Glioma
+PXA,G34 Mutant,PXA,Diffuse Glioma
+Midline,Midline,Midline,Diffuse Glioma
+IDH Mutant,Midline,CNS,Diffuse Glioma
+Diffuse Glioma,G34 Mutant,Diffuse Glioma,Diffuse Glioma
+Diffuse Glioma,G34 Mutant,Diffuse Glioma,Diffuse Glioma
+ETMR,ETMR,Lung,MB-SHH
+Diffuse Glioma,Midline,Diffuse Glioma,Diffuse Glioma
+PXA,G34 Mutant,Diffuse Glioma,Diffuse Glioma
+PA,PA,PXA,PA
+CNS,IDH Mutant,CNS,CNS
+IDH Mutant,CNS,CNS,CNS
+IDH Mutant,IDH Mutant,Diffuse Glioma,CNS
+Diffuse Glioma,IDH Mutant,IDH Mutant,IDH Mutant
+Diffuse Glioma,PFA,IDH Mutant,PFA
+Diffuse Glioma,IDH Mutant,IDH Mutant,IDH Mutant
+Diffuse Glioma,Diffuse Glioma,IDH Mutant,IDH Mutant
+IDH Mutant,IDH Mutant,IDH Mutant,CNS
+PFA,PFA,IDH Mutant,PFA
+Diffuse Glioma,Diffuse Glioma,IDH Mutant,IDH Mutant
+Diffuse Glioma,RELA,AT/RT-MYC,RELA
+IDH Mutant,IDH Mutant,CNS,CNS
+YAP,YAP,SFT,PFB
+MPE,MPE,MPNST,MPE
+RELA,MPNST,RELA,RELA
+RELA,MPNST,RELA,RELA
+PFA,YAP,PFB,MPE
+PFA,SE,PFA,PFA
+YAP,YAP,PFA,YAP
+Meningioma,DIG,Meningioma,Meningioma
+PFB,YAP,CNS,PFB
+PFB,YAP,PFB,PFB
+G34 Mutant,G34 Mutant,Midline,G34 Mutant
+Midline,IDH Mutant,CNS,IDH Mutant
+SE,SE,IDH Mutant,SE
+HGNET-MN1,HGNET-MN1,RELA,HGNET-MN1
+PFB,PFA,PFB,PFB
+CNS,IDH Mutant,CNS,CNS
+IDH Mutant,IDH Mutant,CNS,CNS
+IDH Mutant,IDH Mutant,IDH Mutant,CNS
+IDH Mutant,IDH Mutant,Diffuse Glioma,Diffuse Glioma
+IDH Mutant,IDH Mutant,Diffuse Glioma,IDH Mutant
+IDH Mutant,IDH Mutant,Diffuse Glioma,IDH Mutant
+Midline,ETMR,Midline,Midline
+CNS,CNS,Uveal Melanoma,CNS
+AT/RT-TYR,Diffuse Glioma,AT/RT-TYR,AT/RT-TYR
+AT/RT-TYR,Diffuse Glioma,AT/RT-MYC,Diffuse Glioma
+AT/RT-TYR,Diffuse Glioma,Diffuse Glioma,Diffuse Glioma
+Diffuse Glioma,Diffuse Glioma,AT/RT-MYC,Diffuse Glioma
+AT/RT-SHH,AT/RT-SHH,CNS,AT/RT-SHH
+AT/RT-SHH,AT/RT-SHH,AT/RT-MYC,AT/RT-SHH
+CNS,IDH Mutant,Diffuse Glioma,Diffuse Glioma
+PA,IDH Mutant,SE,Diffuse Glioma
+PA,IDH Mutant,SE,Diffuse Glioma
+CNS,IDH Mutant,IDH Mutant,CNS
+CNS,CNS,Uveal Melanoma,CNS
+DIG,DIG,Diffuse Glioma,Diffuse Glioma
+DIG,PA,DIG,PA
+DIG,DIG,DIG,PA
+PA,DIG,PA,Diffuse Glioma
+DIG,DIG,DIG,PA
+CNS,CNS,Diffuse Glioma,CNS
+Diffuse Glioma,Diffuse Glioma,CNS,PA
+Retinoblastoma,Uveal Melanoma,Uveal Melanoma,Retinoblastoma
+Retinoblastoma,Retina,Retina,Retina
+Retinoblastoma,Retina,Retinoblastoma,Retinoblastoma
+Retinoblastoma,Uveal Melanoma,Uveal Melanoma,Retinoblastoma
+Uveal Melanoma,Uveal Melanoma,PH/PG,Uveal Melanoma
+Retina,Retina,Retinoblastoma,Retinoblastoma
+Diffuse Glioma,IDH Mutant,IDH Mutant,Diffuse Glioma
+DIG,DIG,Meningioma,Diffuse Glioma
+IDH Mutant,Diffuse Glioma,Angiocentric,Midline
+Ganglioglioma,Ganglioglioma,Midline,Diffuse Glioma
+Diffuse Glioma,Diffuse Glioma,RELA,Diffuse Glioma
+Diffuse Glioma,Ganglioglioma,Ganglioglioma,Diffuse Glioma
+Diffuse Glioma,CNS,CNS,CNS
+CNS,CNS,Uveal Melanoma,CNS
+Diffuse Glioma,Diffuse Glioma,Midline,Diffuse Glioma
+Ganglioglioma,Ganglioglioma,IDH Mutant,Diffuse Glioma
+Diffuse Glioma,Diffuse Glioma,Midline,Diffuse Glioma
+PA,Ganglioglioma,Diffuse Glioma,Diffuse Glioma
+Diffuse Glioma,Diffuse Glioma,Ganglioglioma,Diffuse Glioma
+Diffuse Glioma,Ganglioglioma,Diffuse Glioma,Diffuse Glioma
+CNS,CNS,Diffuse Glioma,CNS
+CNS,CNS,PCNSL,PCNSL
+PCNSL,Ganglioglioma,Diffuse Glioma,Diffuse Glioma
+Diffuse Glioma,PXA,Diffuse Glioma,Diffuse Glioma
+G34 Mutant,G34 Mutant,NB-FOXR2,G34 Mutant
+Diffuse Glioma,G34 Mutant,Midline,Midline
+Diffuse Glioma,G34 Mutant,Diffuse Glioma,Diffuse Glioma
+Diffuse Glioma,Diffuse Glioma,Midline,Diffuse Glioma
+Diffuse Glioma,Midline,Diffuse Glioma,Midline
+PXA,Diffuse Glioma,RELA,Diffuse Glioma
+Midline,Diffuse Glioma,Midline,Midline
+ETMR,ETMR,MB-GP3,Diffuse Glioma
+Diffuse Glioma,Ganglioglioma,Diffuse Glioma,Diffuse Glioma
+ETMR,ETMR,ETMR,Diffuse Glioma
+MB-SHH,MB-SHH,SFT,MB-GP4
+PA,Midline,Midline,Midline
+ETMR,ETMR,Neuroblastoma,ETMR
+Diffuse Glioma,G34 Mutant,Midline,Midline
+PXA,PXA,Diffuse Glioma,PXA
+Midline,Midline,Diffuse Glioma,Midline
+IDH Mutant,Midline,IDH Mutant,IDH Mutant
+Midline,PXA,Diffuse Glioma,Diffuse Glioma
+Diffuse Glioma,Midline,Midline,Midline
+Diffuse Glioma,Midline,G34 Mutant,Midline
+Diffuse Glioma,PXA,Diffuse Glioma,Diffuse Glioma
+IDH Mutant,Midline,Midline,Diffuse Glioma
+Diffuse Glioma,PXA,Diffuse Glioma,Diffuse Glioma
+Diffuse Glioma,Diffuse Glioma,RELA,Diffuse Glioma
+AT/RT-SHH,AT/RT-MYC,Diffuse Glioma,Diffuse Glioma
+PA,PA,Diffuse Glioma,PA
+MB-GP4,MB-GP3,MB-GP3,MB-GP3
+MB-GP4,MB-GP4,MB-GP4,MB-GP3
+MB-GP4,MB-GP4,MB-GP4,MB-GP3
+MB-GP4,MB-GP3,MB-GP4,MB-GP4
+Diffuse Glioma,Midline,MB-GP3,MB-GP3
+MB-GP3,MB-GP4,MB-GP4,MB-GP3
+MB-GP3,MB-GP3,PFA,MB-GP3
+G34 Mutant,G34 Mutant,IDH Mutant,Diffuse Glioma
+Diffuse Glioma,G34 Mutant,Diffuse Glioma,Diffuse Glioma
+IDH Mutant,Midline,IDH Mutant,Diffuse Glioma
+Diffuse Glioma,CNS,CNS,Diffuse Glioma
+Diffuse Glioma,CNS,CNS,CNS
+Diffuse Glioma,CNS,CNS,CNS
+Diffuse Glioma,CNS,CNS,CNS
+Diffuse Glioma,AT/RT-SHH,ETMR,Diffuse Glioma
+CNS,IDH Mutant,CNS,CNS
+IDH Mutant,Diffuse Glioma,Diffuse Glioma,Diffuse Glioma
+Diffuse Glioma,Diffuse Glioma,SE,Diffuse Glioma
+Diffuse Glioma,Ganglioglioma,Diffuse Glioma,Diffuse Glioma
+IDH Mutant,IDH Mutant,CNS,IDH Mutant
+IDH Mutant,Diffuse Glioma,Diffuse Glioma,Diffuse Glioma
+IDH Mutant,IDH Mutant,CNS,IDH Mutant
+Diffuse Glioma,Midline,Midline,Diffuse Glioma
+IDH Mutant,IDH Mutant,Diffuse Glioma,IDH Mutant
+Diffuse Glioma,IDH Mutant,IDH Mutant,IDH Mutant
+Diffuse Glioma,IDH Mutant,Diffuse Glioma,Diffuse Glioma
+Diffuse Glioma,Diffuse Glioma,IDH Mutant,Diffuse Glioma
+Diffuse Glioma,IDH Mutant,SFT,Diffuse Glioma
+IDH Mutant,Ganglioglioma,Diffuse Glioma,Diffuse Glioma
+Diffuse Glioma,Diffuse Glioma,SE,Diffuse Glioma
+IDH Mutant,IDH Mutant,Diffuse Glioma,IDH Mutant
+IDH Mutant,Diffuse Glioma,Diffuse Glioma,Diffuse Glioma
+IDH Mutant,Diffuse Glioma,Diffuse Glioma,Diffuse Glioma
+IDH Mutant,IDH Mutant,Meningioma,Meningioma
+Diffuse Glioma,Diffuse Glioma,Diffuse Glioma,CNS
+Diffuse Glioma,Diffuse Glioma,Ganglioglioma,Diffuse Glioma
+CNS,CNS,MB-SHH,CNS
+IDH Mutant,IDH Mutant,PA,IDH Mutant
+IDH Mutant,Angiocentric,SE,IDH Mutant
+IDH Mutant,Angiocentric,SE,PA
+Angiocentric,Angiocentric,Angiocentric,IDH Mutant
+Angiocentric,Angiocentric,Diffuse Glioma,IDH Mutant
+CNS,IDH Mutant,PA,CNS
+CNS,IDH Mutant,PA,CNS
+IDH Mutant,PA,PA,PA
+Angiocentric,Angiocentric,Angiocentric,Midline
+MB-GP4,MB-GP4,MB-GP4,MB-GP3
+MB-WNT,MB-WNT,PH/PG,MB-WNT
+MB-GP4,MB-GP3,MB-GP3,MB-GP3
+MB-GP4,MB-GP3,MB-GP4,MB-GP4
+MB-SHH,MB-GP3,PH/PG,MB-GP4
+MB-WNT,MB-WNT,PH/PG,MB-WNT
+MB-SHH,MB-SHH,PH/PG,MB-SHH
+MB-GP3,MB-GP3,SE,MB-GP3
+MB-GP3,MB-GP3,MB-GP4,MB-GP4
+MB-SHH,MB-WNT,MB-WNT,MB-WNT
+MB-GP3,MB-GP4,MB-GP4,MB-GP4
+MB-SHH,MB-SHH,PH/PG,MB-SHH
+MB-GP4,MB-GP3,MB-GP4,MB-GP4
+MB-GP4,MB-GP3,MB-GP4,MB-GP4
+MB-GP4,MB-GP3,MB-GP4,MB-GP3
+MB-SHH,MB-SHH,Cerebellum,MB-SHH
+MB-GP4,MB-GP3,MB-GP4,MB-GP3
+MB-GP3,MB-GP3,MB-GP4,MB-GP3
+MB-GP4,MB-GP3,MB-GP4,Papilloma
+MB-GP4,MB-GP4,PH/PG,MB-GP4
+MB-SHH,MB-GP3,MB-GP4,MB-GP4
+MB-GP3,MB-GP4,MB-GP4,MB-GP4
+MB-SHH,MB-SHH,PH/PG,MB-SHH
+MB-SHH,MB-SHH,PH/PG,MB-SHH
+MB-GP4,MB-GP4,Breast,MB-GP4
+MB-GP4,MB-GP4,MB-GP3,MB-GP4
+MB-GP4,MB-GP4,MB-GP3,MB-GP4
+MB-GP4,MB-GP3,MB-GP3,MB-GP3
+MB-GP4,MB-GP3,MB-GP3,MB-GP3
+MB-GP4,MB-GP4,MB-GP4,MB-GP3
+Diffuse Glioma,Midline,MB-GP3,MB-GP3
+MB-GP3,MB-GP3,PFA,MB-GP3
+MB-GP4,MB-GP3,MB-GP3,MB-GP3
+MB-GP4,MB-GP4,MB-GP3,MB-GP3
+MB-GP3,MB-GP3,MB-GP4,MB-GP4
+MB-GP4,MB-GP4,MB-GP3,MB-GP4
+MB-GP3,MB-GP4,MB-GP3,MB-GP3
+MB-GP4,MB-GP4,MB-GP3,MB-GP4
+MB-GP3,MB-GP3,MB-GP4,MB-GP3
+MB-GP4,MB-GP4,MB-GP3,MB-GP3
+MB-GP4,MB-GP4,MB-GP4,MB-GP3
+MB-GP4,MB-GP3,MB-GP4,MB-GP4
+Diffuse Glioma,IDH Mutant,IDH Mutant,IDH Mutant
+Diffuse Glioma,IDH Mutant,Diffuse Glioma,Diffuse Glioma
+Peri. Nerve,Peri. Nerve,Peri. Nerve,Neurofibroma
+CNS,CNS,Lung,CNS
+Lung,Breast,PFA,Lung
+Lung,Breast,Lung,Lung
