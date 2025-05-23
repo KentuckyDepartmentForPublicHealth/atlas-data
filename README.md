@@ -8,12 +8,12 @@ In this study, we present an atlas that combines harmonized gene expression and 
 
 ## Instructions
 ### Gene Expression Data
-The ExpData.rds files (zipped and segmented into 11 files) in the Gene Expression Folder contains the gene expression data for each sample. Once downloaded and unzipped, the file (and its data) can be loaded into R with the following simple command. 
+The ExpData_BC.rds files (zipped and segmented into 11 files) in the Gene Expression Folder contains the gene expression data for each sample. Once downloaded and unzipped, the file (and its data) can be loaded into R with the following simple command. 
 
-ExpData<-read.RDS(“ExpData.rds”) #this will load a data frame.
+ExpData<-read.RDS(“ExpData_BC.rds”) #this will load a data frame.
 
 ### Clinical Data
-The clinical data associated with the samples are available in Atlas_Data.csv.
+The clinical data associated with the samples are available in Supplementary Table 1.csv. "_bc" after a variable designates "batch corrected"
 
 VARIABLES:
 Filename, Dataset ID, Sample ID, Primary Institution, Country, Tissue preparation
@@ -22,7 +22,7 @@ TUMOR DATA:
 Original histology, Subgroup Information, Original location, Compartment, Location, Grade, Final diagnosis, and Genetic Information: 1p/19q-codel, IDH1/2 mutation, H3 mutation, TERT (promoter) mutation, EGFR amplification, MGMT promoter methylation, BRAF mutation, MCYN amplification
 
 ANALYSIS RESULTS:
-tsne1, tsne2, Diagnosis predicted by the Random Forest, LightGBM, Euclidean, and t-SNE classifiers	
+tsne1_bc, tsne2_bc, Diagnosis predicted by the Random Forest, LightGBM, Euclidean, and t-SNE classifiers	
 
 PATIENT DATA:
 Stage Neuroblastoma, Stage Medulloblastoma, Age (year), Age (grouped), Sex, Recurrent?, Vital status, Overall survival
