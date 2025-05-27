@@ -13,7 +13,7 @@ The ExpData_BC.rds files (zipped and segmented into 11 files) in the Gene Expres
 ExpData<-read.RDS(“ExpData_BC.rds”) #this will load a data frame.
 
 ### Clinical Data
-The clinical data associated with the samples are available in Supplementary Table 1.csv. "_bc" after a variable designates "batch corrected"
+The clinical data associated with the samples are available in Supplemental Table 1.csv. "_bc" after a variable designates "batch corrected"
 
 VARIABLES:
 Filename, Dataset ID, Sample ID, Primary Institution, Country, Tissue preparation
